@@ -21,12 +21,12 @@ Mastermind is a classic code-breaking game where the player tries to guess a sec
 git clone https://github.com/srh95/Mastermind.git
 ```
 
-3. Navigate to the project directory 
+2. Navigate to the project directory 
 ```
 cd Mastermind/Mastermind
 ```
 
-4. Build the project
+3. Build the project
 ```
 dotnet build
 ```
@@ -39,5 +39,5 @@ dotnet build
 dotnet run
 ```
 
-2. Follow the instructions
+2. The game will provide instructions on how to play and prompt you to enter your guess.
 
