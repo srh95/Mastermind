@@ -17,19 +17,27 @@ Mastermind is a classic code-breaking game where the player tries to guess a sec
 ### Installation 
 
 1. Clone the repository
-''' git clone '''
+```
+git clone https://github.com/srh95/Mastermind.git
+```
 
-2. Navigate to the project directory 
-   '''cd Mastermind/Mastermind'''
+3. Navigate to the project directory 
+```
+cd Mastermind/Mastermind
+```
 
 4. Build the project
-   '''dotnet build'''
+```
+dotnet build
+```
 
 ### How to Play
 
 1. Run the program
 
-''' dotnet run '''
+``` 
+dotnet run
+```
 
 2. Follow the instructions
 
